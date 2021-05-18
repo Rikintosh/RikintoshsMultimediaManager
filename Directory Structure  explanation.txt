@@ -1,0 +1,38 @@
++ RMM Root Folder
+
+ + BIN     <---- Stores app content (exe's folder)
+
+ + DATA   <---- Stores multimedia content from the database, images, videos, gifs ...
+  - BG       <---- Background images folder [To be implemented]
+  - COV      <---- Game cover (simple) images folder
+  - COV3D    <---- Game cover (full box) images folder [To be implemented]
+  - PIC      <---- Screenshots images folder
+  - PRF      <---- Default user profile images folder
+
+ + THM     <---- Themes folder
+  + 'WebTV'    <---- The default theme folder
+   - IMG       <---- Stores all images used in the theme
+   - MSC       <---- Stores (optional) background music of the theme
+   - SND       <---- Stores interface sounds of the theme
+   - VID       <---- Stores (optional) videos of the theme [To be implemented]
+   = thm.txt
+
+ + USR     <---- Users/Profiles folder
+   + 'Player1'  <---- Stores user profile and stuff (the folder takes the name that the user wants)
+    - IMG           <---- Stores all user screenshots
+    - SAV           <---- Stores all user save files
+    - profile.'xxx' <---- Stores user avatar/image (can be .bmp, jpg, gif...)
+    - profile.dat   <---- Stores user information, its a simple txt renamed
+
+= RMM.exe   <---- App
+
+= RMM.ini   <---- Store some configuration
+
+
+
+Legend:
+
+'' Variable name
++ Folder w/ subfolder inside
+- Folder
+= File
