@@ -1,4 +1,5 @@
 # Rikintosh's MultiMedia Manager
+Please, visit: https://rikintoshsmultimediamanager.blogspot.com/
 
 I have always missed a good game manager for my old computers. Formatting and reinstalling my favorite games is a lot of work, in ms-dos games I have to configure the correct sound card for each of them, create icons on the desktop and then (for my taste) look for icons for games that do not have it.
 
